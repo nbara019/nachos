@@ -1,12 +1,9 @@
 /* 
 * @author: Nathaniel Barajas
-* Panther ID: 6201802
+*.
 *
-* I affirm that I wrote this program without any help
-* from any other people or sources on the internet.
-*
-* This assignment is meant to teach how to use dynamic
-* 
+* This program was made in college as a way to use dynamic memory as well
+* as well as use pointers and binary files.
 */
 #include <stdio.h> 
 #include <stdlib.h>
